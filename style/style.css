@@ -1,0 +1,9 @@
+.view {
+  height: 300px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.view td {
+  border: 1px solid burlywood;
+}
