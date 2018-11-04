@@ -1,9 +1,21 @@
-.view {
-  height: 300px;
-  width: 100%;
-  border-collapse: collapse;
+/* селектор { свойство: значение; } */
+
+/* tag < class < id */
+
+/* tag == 1
+
+.class == 10 
+
+#id== 100
+
+important == 1000
+
+*/
+
+.paragraph {
+  color: forestgreen;
 }
 
-.view td {
-  border: 1px solid burlywood;
+.paragraph.active {
+  color: dodgerblue;
 }
